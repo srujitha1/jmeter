@@ -1,3 +1,4 @@
+
 FROM java:8
 
 VOLUME /var/lib/docker-images
