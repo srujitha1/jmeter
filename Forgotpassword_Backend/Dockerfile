@@ -1,5 +1,5 @@
 
-FROM java:8
+FROM open-jdk:8
 
 VOLUME /var/lib/docker-images
 
